@@ -8,6 +8,6 @@ local Window = Library.CreateLib("Moat's script", "DarkTheme")
         loadstring(game:HttpGet(('https://pastebin.com/raw/KynLT9dm'),true))()
     end)
 
-    MainSection:NewButton("Beast script", "FREE BEAST SCRIPT", function()
-        loadstring(game:HttpGet(('https://pastebin.com/raw/d6Jxbnid'),true))()
+    MainSection:NewButton("Rape child", "Rape pelople", function()
+        loadstring(game:HttpGet(('https://pastebin.com/raw/NWW8JtFY'),true))()
     end)
